@@ -1,0 +1,6 @@
+
+{
+  "Name": "Velociraptor",
+  "Registry ID": "pe:velociraptor",
+  "Class": "me.geometrically.prehistoric.server.entity.dinosaur.carnivore.EntityVelociraptor"
+}

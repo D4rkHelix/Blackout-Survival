@@ -1,0 +1,6 @@
+
+{
+  "Name": "cowbell_entity",
+  "Registry ID": "scp:cowbell_entity",
+  "Class": "alexiy.secure.contain.protect.entity.EntityCowbellMonster"
+}

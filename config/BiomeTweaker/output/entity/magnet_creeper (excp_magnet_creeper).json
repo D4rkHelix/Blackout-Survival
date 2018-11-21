@@ -1,0 +1,6 @@
+
+{
+  "Name": "magnet_creeper",
+  "Registry ID": "excp:magnet_creeper",
+  "Class": "extracreepers.entity.EntityMagnetCreeper"
+}

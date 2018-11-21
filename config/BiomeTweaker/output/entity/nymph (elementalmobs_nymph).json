@@ -1,0 +1,6 @@
+
+{
+  "Name": "nymph",
+  "Registry ID": "elementalmobs:nymph",
+  "Class": "com.lycanitesmobs.elementalmobs.entity.EntityNymph"
+}

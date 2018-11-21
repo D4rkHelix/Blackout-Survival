@@ -1,0 +1,6 @@
+
+{
+  "Name": "EntityDyeableChicken",
+  "Registry ID": "minecraft:textures/entity/chicken.png",
+  "Class": "com.hoborific.dyeablechickens.common.entity.EntityDyeableChicken"
+}

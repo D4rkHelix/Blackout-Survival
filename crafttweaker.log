@@ -1,0 +1,15 @@
+[PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 1ms
+[PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [gamestagebooks]]
+[PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [gamestagebooks]
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 0ms
+[PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [gamestagebooks], [mekatweaker]]
+[PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [mekatweaker]
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 0ms
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [gamestagebooks], [mekatweaker], [recipeevent | crafttweaker]]
+[INITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 0ms
+[SERVER_STARTED][CLIENT][INFO] Fixed the RecipeBook

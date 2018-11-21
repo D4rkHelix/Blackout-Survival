@@ -1,0 +1,6 @@
+
+{
+  "Name": "Plateosaurus",
+  "Registry ID": "pe:plateosaurus",
+  "Class": "me.geometrically.prehistoric.server.entity.dinosaur.herbivore.EntityPlateosaurus"
+}

@@ -1,0 +1,6 @@
+
+{
+  "Name": "Obj",
+  "Registry ID": "obsidian_animator:obj",
+  "Class": "com.dabigjoe.obsidianAnimator.render.entity.EntityObj"
+}

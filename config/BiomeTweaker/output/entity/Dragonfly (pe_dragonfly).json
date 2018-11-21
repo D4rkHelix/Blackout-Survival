@@ -1,0 +1,6 @@
+
+{
+  "Name": "Dragonfly",
+  "Registry ID": "pe:dragonfly",
+  "Class": "me.geometrically.prehistoric.server.entity.flying.EntityDragonfly"
+}

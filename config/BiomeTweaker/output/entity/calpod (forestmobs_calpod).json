@@ -1,0 +1,6 @@
+
+{
+  "Name": "calpod",
+  "Registry ID": "forestmobs:calpod",
+  "Class": "com.lycanitesmobs.forestmobs.entity.EntityCalpod"
+}

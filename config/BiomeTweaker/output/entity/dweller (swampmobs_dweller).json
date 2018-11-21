@@ -1,0 +1,6 @@
+
+{
+  "Name": "dweller",
+  "Registry ID": "swampmobs:dweller",
+  "Class": "com.lycanitesmobs.swampmobs.entity.EntityDweller"
+}

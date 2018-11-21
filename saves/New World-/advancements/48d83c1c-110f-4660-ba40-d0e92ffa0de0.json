@@ -1,0 +1,27 @@
+{
+  "exoticbirds:eb/root": {
+    "criteria": {
+      "trigger_1": "2018-11-21 13:25:45 +1000"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2018-11-21 13:26:09 +1000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/root": {
+    "criteria": {
+      "auto": "2018-11-21 13:25:45 +1000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2018-11-21 13:31:36 +1000",
+      "plains": "2018-11-21 13:25:45 +1000"
+    },
+    "done": false
+  }
+}

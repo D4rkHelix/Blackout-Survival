@@ -1,0 +1,6 @@
+
+{
+  "Name": "cw_yeti",
+  "Registry ID": "cw:cw_yeti",
+  "Class": "cw.entity.yeti.EntityYeti"
+}

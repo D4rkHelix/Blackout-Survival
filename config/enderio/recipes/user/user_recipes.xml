@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<enderio:recipes xmlns:enderio="http://enderio.com/recipes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://enderio.com/recipes recipes.xsd ">
+
+  <recipe name="Sagmill: ingotAluminumBrass Ore">
+    <sagmilling energy="2400">
+      <input name="ingotAluminumBrass"/>
+      <output name="oresalleasy:dust_alloy:4" amount="1" required="false" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: blockAluminumBrass Ore">
+    <sagmilling energy="3600">
+      <input name="blockAluminumBrass"/>
+      <output name="oresalleasy:dust_alloy:4" amount="9" required="false" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: ingotManyullin Ore">
+    <sagmilling energy="2400">
+      <input name="ingotManyullin"/>
+      <output name="oresalleasy:dust_alloy:2" amount="1" required="false" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: blockManyullin Ore">
+    <sagmilling energy="3600">
+      <input name="blockManyullin"/>
+      <output name="oresalleasy:dust_alloy:2" amount="9" required="false" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: oreArdite Ore">
+    <sagmilling energy="3600">
+      <input name="oreArdite"/>
+      <output name="oresalleasy:dust_tinker:0" amount="2" required="false" />
+      <output name="oresalleasy:dust_nether:0" amount="1" chance="0.15" required="false" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: ingotArdite Ore">
+    <sagmilling energy="2400">
+      <input name="ingotArdite"/>
+      <output name="oresalleasy:dust_metal:0" amount="1" required="false" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: blockArdite Ore">
+    <sagmilling energy="3600">
+      <input name="blockArdite"/>
+      <output name="oresalleasy:dust_metal:0" amount="9" required="false" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: oreCobalt Ore">
+    <sagmilling energy="3600">
+      <input name="oreCobalt"/>
+      <output name="oresalleasy:dust_tinker:1" amount="2" required="false" />
+      <output name="oresalleasy:dust_nether:0" amount="1" chance="0.15" required="false" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: ingotCobalt Ore">
+    <sagmilling energy="2400">
+      <input name="ingotCobalt"/>
+      <output name="oresalleasy:dust_metal:1" amount="1" required="false" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: blockCobalt Ore">
+    <sagmilling energy="3600">
+      <input name="blockCobalt"/>
+      <output name="oresalleasy:dust_metal:1" amount="9" required="false" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: oreIron Ore">
+    <sagmilling energy="3600">
+      <input name="oreIron"/>
+      <output name="oresalleasy:dust_metal:1" amount="2" required="false" />
+      <output name="oresalleasy:dust_metal:8" amount="1" chance="0.05" required="false" />
+      <output name="oresalleasy:dust_metal:3" amount="1" chance="0.1" required="false" />
+      <output name="oresalleasy:dust_stone:0" amount="1" chance="0.15" required="false" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: ingotIron Ore">
+    <sagmilling energy="2400">
+      <input name="ingotIron"/>
+      <output name="oresalleasy:dust_metal:1" amount="1" required="false" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: blockIron Ore">
+    <sagmilling energy="3600">
+      <input name="blockIron"/>
+      <output name="oresalleasy:dust_metal:1" amount="9" required="false" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: oreGold Ore">
+    <sagmilling energy="3600">
+      <input name="oreGold"/>
+      <output name="oresalleasy:dust_metal:0" amount="2" required="false" />
+      <output name="oresalleasy:dust_metal:5" amount="1" chance="0.2" required="false" />
+      <output name="oresalleasy:dust_stone:0" amount="1" chance="0.15" required="false" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: ingotGold Ore">
+    <sagmilling energy="2400">
+      <input name="ingotGold"/>
+      <output name="oresalleasy:dust_metal:1" amount="1" required="false" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: blockGold Ore">
+    <sagmilling energy="3600">
+      <input name="blockGold"/>
+      <output name="oresalleasy:dust_metal:1" amount="9" required="false" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: ingotSteel Ore">
+    <sagmilling energy="2400">
+      <input name="ingotSteel"/>
+      <output name="oresalleasy:dust_alloy:5" amount="1" required="false" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: blockSteel Ore">
+    <sagmilling energy="3600">
+      <input name="blockSteel"/>
+      <output name="oresalleasy:dust_alloy:5" amount="9" required="false" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: Coal">
+    <sagmilling energy="2400">
+      <input name="coal"/>
+      <output name="oresalleasy:dust_coal:0" amount="1" required="false" />
+      <output name="oresalleasy:dust_coal:0" amount="1" chance="0.1" required="false" />
+      <output name="oresalleasy:dust_sulfur:0" amount="1" chance="0.1" required="false" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: oreCoal Ore">
+    <sagmilling energy="3600">
+      <input name="oreCoal"/>
+      <output name="oresalleasy:dust_coal:0" amount="2" required="false" />
+      <output name="minecraft:diamond:0" amount="1" chance="0.001" required="false" />
+      <output name="oresalleasy:dust_sulfur:0" amount="1" chance="0.1" required="false" />
+      <output name="oresalleasy:dust_stone:0" amount="1" chance="0.15" required="false" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: Charcoal">
+    <sagmilling energy="2400">
+      <input name="charcoal"/>
+      <output name="oresalleasy:dust_charcoal:0" amount="1" required="false" />
+      <output name="oresalleasy:dust_charcoal:0" amount="1" chance="0.1" required="false" />
+      <output name="oresalleasy:dust_wood:0" amount="1" chance="0.01" required="false" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: Coal Block">
+    <sagmilling energy="2400">
+      <input name="blockCoal"/>
+      <output name="oresalleasy:dust_coal:0" amount="9" required="false" />
+      <output name="oresalleasy:dust_coal:0" amount="1" chance="0.5" required="false" />
+      <output name="oresalleasy:dust_coal:0" amount="1" chance="0.25" required="false" />
+      <output name="oresalleasy:dust_sulfur:0" amount="1" chance="0.4" required="false" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: oreRedstone Ore">
+    <sagmilling energy="3600">
+      <input name="oreCoal"/>
+      <output name="minecraft:redstone:0" amount="8" required="false" />
+      <output name="minecraft:diamond:0" amount="1" chance="0.001" required="false" />
+      <output name="oresalleasy:dust_stone:0" amount="1" chance="0.15" required="false" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: Obsidian">
+    <sagmilling energy="4000">
+      <input name="obsidian"/>
+      <output name="oresalleasy:dust_obsidian:0" amount="4" required="false" />
+      <output name="oresalleasy:dust_obsidian:0" amount="1" chance="0.25" required="false" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: Netherrack">
+    <sagmilling energy="4000">
+      <input name="netherrack"/>
+      <output name="oresalleasy:dust_nether:0" amount="4" required="false" />
+      <output name="oresalleasy:dust_nether:0" amount="1" chance="0.25" required="false" />
+      <output name="oresalleasy:dust_sulfur:0" amount="1" chance="0.1" required="false" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: Quartz Dust">
+    <sagmilling energy="2400">
+      <input name="gemQuartz"/>
+      <output name="oresalleasy:dust_quartz:0" amount="1" required="false" />
+      <output name="oresalleasy:dust_quartz:0" amount="1" chance="1.0" required="false" />
+      <output name="oresalleasy:dust_quartz:0" amount="1" chance="0.1" required="false" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: blockQuartz Ore">
+    <sagmilling energy="3600">
+      <input name="blockQuartz"/>
+      <output name="oresalleasy:dust_quartz:0" amount="4" required="false" />
+      <output name="oresalleasy:dust_quartz:0" amount="1" chance="0.25" required="false" />
+      <output name="oresalleasy:dust_quartz:0" amount="1" chance="0.1" required="false" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: Diamond Dust">
+    <sagmilling energy="3600">
+      <input name="gemDiamond"/>
+      <output name="oresalleasy:dust_diamond:0" amount="1" required="false" />
+      <output name="oresalleasy:dust_diamond:0" amount="1" chance="0.05" required="false" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: dustDiamond Ore">
+    <sagmilling energy="3600">
+      <input name="oreDiamond"/>
+      <output name="minecraft:diamond:0" amount="1" required="false" />
+      <output name="minecraft:diamond:0" amount="1" chance="0.01" required="false" />
+      <output name="oresalleasy:dust_coal:0" amount="1" chance="0.5" required="false" />
+      <output name="oresalleasy:dust_stone:0" amount="1" chance="0.15" required="false" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: Stonemeal">
+    <sagmilling energy="2400">
+      <input name="cobblestone"/>
+      <output name="oresalleasy:dust_stone:0" amount="1" required="false" />
+      <output name="oresalleasy:dust_stone:0" amount="1" chance="0.5" required="false" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: Salt Dust">
+    <sagmilling energy="2400">
+      <input name="blockSalt"/>
+      <output name="oresalleasy:dust_salt:0" amount="4" required="false" />
+    </sagmilling>
+  </recipe>
+
+</enderio:recipes>

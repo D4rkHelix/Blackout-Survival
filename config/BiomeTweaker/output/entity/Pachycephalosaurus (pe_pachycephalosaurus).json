@@ -1,0 +1,6 @@
+
+{
+  "Name": "Pachycephalosaurus",
+  "Registry ID": "pe:pachycephalosaurus",
+  "Class": "me.geometrically.prehistoric.server.entity.dinosaur.herbivore.EntityPachycephalosaurus"
+}

@@ -1,0 +1,30 @@
+{
+    "config_version": {
+        "id": "__default",
+        "version": 0
+    },
+    "dimensions": [
+        {
+            "dim": 0,
+            "override": true,
+            "dimensiontype": {
+                "id": 0,
+                "name": "Overworld",
+                "keeploaded": true,
+                "worldprovider": "WorldProviderSurfaceJED"
+            },
+            "jed": {
+                "HasXZFog": true,
+                "CanDoRainSnowIce": false,
+                "CloudColor": "950c0c",
+                "FogColor": "cc3333",
+                "SkyColor": "341f1f",
+                "Colors": {
+                    "FoliageColors": [ { "biome_regex": ".*",  "color": "543838" } ],
+                    "GrassColors":   [ { "biome_regex": ".*",  "color": "4D110C" } ],
+                    "WaterColors":   [ { "biome_regex": ".*",  "color": "4D110C" } ]
+                }
+            }
+        }
+    ]
+}

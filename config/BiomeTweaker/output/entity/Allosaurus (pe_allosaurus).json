@@ -1,0 +1,6 @@
+
+{
+  "Name": "Allosaurus",
+  "Registry ID": "pe:allosaurus",
+  "Class": "me.geometrically.prehistoric.server.entity.dinosaur.carnivore.EntityAllosaurus"
+}

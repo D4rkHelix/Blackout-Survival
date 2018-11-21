@@ -1,0 +1,6 @@
+
+{
+  "Name": "furnace_creeper",
+  "Registry ID": "excp:furnace_creeper",
+  "Class": "extracreepers.entity.EntityFurnaceCreeper"
+}

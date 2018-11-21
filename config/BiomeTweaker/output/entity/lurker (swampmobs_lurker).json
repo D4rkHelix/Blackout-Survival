@@ -1,0 +1,6 @@
+
+{
+  "Name": "lurker",
+  "Registry ID": "swampmobs:lurker",
+  "Class": "com.lycanitesmobs.swampmobs.entity.EntityLurker"
+}

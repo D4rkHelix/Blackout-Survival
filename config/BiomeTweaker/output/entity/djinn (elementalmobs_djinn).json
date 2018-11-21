@@ -1,0 +1,6 @@
+
+{
+  "Name": "djinn",
+  "Registry ID": "elementalmobs:djinn",
+  "Class": "com.lycanitesmobs.elementalmobs.entity.EntityDjinn"
+}

@@ -1,0 +1,6 @@
+
+{
+  "Name": "rocket_creeper",
+  "Registry ID": "excp:rocket_creeper",
+  "Class": "extracreepers.entity.EntityRocketCreeper"
+}
